@@ -1,3 +1,5 @@
+/* Credits to W3Schools for this code */
+
 function includeHTML() {
   var z, i, elmnt, file, xhttp;
   /* Loop through a collection of all HTML elements: */
