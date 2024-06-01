@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en" data-bs-theme="dark">
   <head>
     <meta charset="utf-8">
@@ -17,10 +16,10 @@
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="#">Home</a>
+          <a class="nav-link" href="https://mathematicalcoder.github.io/pmsp/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/about.html">About</a>
+          <a class="nav-link" href="https://mathematicalcoder.github.io/pmsp/about.php">About</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Login</a>
