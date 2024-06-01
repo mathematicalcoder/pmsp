@@ -9,8 +9,6 @@
     <!-- navbar -->
 <?php include("https://mathematicalcoder.github.io/pmsp/assets/navbar.php"); ?>
 
-</nav>
-
     <div class="container-xl mt-3 border">
       <p class="display-4">Pisay Mathers Summer Program</p>
       <p>The Pisay Mathers Summer Program aims to help aspiring math olympians in PSHS prepare for the Philippine Mathematical Olympiad before the school year starts. The program will run from 17 June 2024 to 16 August 2024.</p>
